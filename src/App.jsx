@@ -1,5 +1,6 @@
 import React from 'react'
-import Login from './pages/Login';
+import Cart from './pages/Cart';
+// import Login from './pages/Login';
 // import Product from './pages/Product';
 // import Register from './pages/Register';
 // import Home from './pages/Home';
@@ -8,7 +9,7 @@ import Login from './pages/Login';
 const App = () => {
   return (
     <div>
-      <Login/>
+      <Cart/>
     </div>
   )
 }
